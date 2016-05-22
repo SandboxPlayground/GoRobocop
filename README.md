@@ -1,0 +1,2 @@
+# GoRobocop
+Robocop in golang
